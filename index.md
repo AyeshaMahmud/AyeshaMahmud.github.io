@@ -1,8 +1,6 @@
 ---
 layout: frontpage
 title: Ayesha Mahmud
-%description: Blue Ham is a PhD candidate at Broom University. 
-%keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
 I am a demographer, and am broadly interested in the interplay between human demography and infectious disease dynamics. My research examines the social, demographic and environmental drivers of infectious disease outbreaks. I am an Assistant Professor of Demography at the University of California, Berkeley. Prior to coming to Berkeley, I was a Rockefeller Foundation Planetary Health Fellow at Harvard University. I received my Ph.D. in Demography from Princeton University in 2017.
@@ -35,7 +33,6 @@ I am a demographer, and am broadly interested in the interplay between human dem
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/AyeshaMahmud">GitHub</a></li>
-          %<li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
 </div>
