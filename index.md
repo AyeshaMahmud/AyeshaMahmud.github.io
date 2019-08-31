@@ -28,9 +28,9 @@ title: Ayesha Mahmud
 
 ---
 
-I am a demographer, and am broadly interested in the interplay between human population changes, environmental factors, and infectious disease dynamics. I am an Assistant Professor of Demography at the University of California, Berkeley. 
+I am an Assistant Professor of Demography at the University of California, Berkeley. 
 
-My research draws on theory and methods from demography and disease ecology, to answer questions such as - why do outbreaks occur at certain times of the year? How and why does the mortality burden of infectious diseases vary over time? How does population travel patterns drive the spatial dynamics of outbreaks? How will global environmental and demographic changes alter the landscape of infectious disease burden in the future? I use statistical methods and biologically mechanistic models to answer these questions in the context of multiple diseases in countries in Asia, Africa, and Central America, using data from disease surveillance systems, hospital databases, climate models, human mobility data, and population surveys and censuses.
+I am a demographer, and am broadly interested in the interplay between human population changes, environmental factors, and infectious disease dynamics. My research draws on theory and methods from demography and disease ecology, to answer questions such as - why do outbreaks occur at certain times of the year? How and why does the mortality burden of infectious diseases vary over time? How does population travel patterns drive the spatial dynamics of outbreaks? How will global environmental and demographic changes alter the landscape of infectious disease burden in the future? I use statistical methods and biologically mechanistic models to answer these questions in the context of multiple diseases in countries in Asia, Africa, and Central America, using data from disease surveillance systems, hospital databases, climate models, human mobility data, and population surveys and censuses.
 
 Prior to coming to Berkeley, I was a Rockefeller Foundation Planetary Health Fellow at Harvard University. I received my Ph.D. in Demography from Princeton University in 2017.
 
