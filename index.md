@@ -4,11 +4,11 @@ title: Ayesha Mahmud
 ---
 
 <div class="container">
-<h4><a name=""></a>contact</h4>
+<h4><a name=""></a></h4>
 
     <div class="row-fluid">
         <div class="span5">
-           Ayesha Mahmud<br/>
+           *Ayesha Mahmud<br/>
             Department of Demography<br/>
             University of California, Berkeley<br/>
             2232 Piedmont Ave<br/>
@@ -25,14 +25,6 @@ title: Ayesha Mahmud
     </div>
 </div>
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-      		   <li><a href="https://scholar.google.com/citations?user=zcNNa7sAAAAJ&hl=en&inst=6453797383205921872">Google Scholar</a></li>
-                    <li><a href="https://github.com/AyeshaMahmud">GitHub</a></li>
-      </ul>
-  </div>
-</div>
 
 ---
 
@@ -46,6 +38,14 @@ Prior to coming to Berkeley, I was a Rockefeller Foundation Planetary Health Fel
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+      		   <li><a href="https://scholar.google.com/citations?user=zcNNa7sAAAAJ&hl=en&inst=6453797383205921872">Google Scholar</a></li>
+                    <li><a href="https://github.com/AyeshaMahmud">GitHub</a></li>
+      </ul>
+  </div>
+</div>
 
 
 
