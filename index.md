@@ -8,7 +8,7 @@ title: Ayesha Mahmud
 
     <div class="row-fluid">
         <div class="span5">
-           *Ayesha Mahmud<br/>
+           Ayesha Mahmud<br/>
             Department of Demography<br/>
             University of California, Berkeley<br/>
             2232 Piedmont Ave<br/>
