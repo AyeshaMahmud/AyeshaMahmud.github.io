@@ -9,11 +9,11 @@ title: Ayesha S. Mahmud
     <div class="row-fluid">
         <div class="span5">
            Ayesha S. Mahmud<br/>
-           Assistant Professor, Department of Demography<br/>
+           Associate Professor, Department of Demography<br/>
             University of California, Berkeley<br/>
-            2232 Piedmont Ave<br/>
+            394 Social Science Building <br/>
             Berkeley, CA 94720 <br/>
-            Email: mahmuda@berkeley.edu<br/>
+            Email: mahmuda {at} berkeley.eduv<br/>
             
         </div>
 
