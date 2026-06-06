@@ -13,7 +13,7 @@ title: Ayesha S. Mahmud
             University of California, Berkeley<br/>
             394 Social Science Building <br/>
             Berkeley, CA 94720 <br/>
-            Email: mahmuda {at} berkeley.eduv<br/>
+            Email: mahmuda {at} berkeley.edu<br/>
             
         </div>
 
